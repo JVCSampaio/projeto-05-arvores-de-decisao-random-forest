@@ -1,3 +1,5 @@
+> **Estudo concluído.** Este repositório faz parte de uma série de seis estudos baseados em livro. Consulte o [índice da série](https://github.com/JVCSampaio/data-science-projects) e o [portfólio](https://github.com/JVCSampaio) para os projetos em destaque.
+
 # Projeto 5 — Árvores de Decisão e Random Forest
 
 Modelos baseados em árvores: visualização de árvores de decisão com Graphviz, ensemble Random Forest com busca de hiperparâmetros via `GridSearchCV` e análise de importância das variáveis.
